@@ -22,7 +22,7 @@ A simple React application demonstrating infinite scrolling functionality using 
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Aroxed/react-query-example
 cd react-query-example
 ```
 
