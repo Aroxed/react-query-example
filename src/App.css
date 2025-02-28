@@ -1,0 +1,47 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.App {
+  text-align: center;
+}
+
+.posts-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.post {
+  background: #f5f5f5;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.post h2 {
+  color: #333;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.post p {
+  color: #666;
+  line-height: 1.6;
+}
+
+.loading {
+  text-align: center;
+  padding: 20px;
+  font-size: 1.2rem;
+  color: #666;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 2rem;
+}
